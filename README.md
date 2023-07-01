@@ -12,10 +12,13 @@ I’m Meherun Nessa Suchana, a student of [American International University - B
 
 <h2 align="left"> 💫About Me : </h2>
 
-- 🌱 I’m currently learning Database
+- 🌱 I’m currently learning **Database**
 - 🤔 I’m looking for help with programming
 - 📫 How to reach me: mnsuchana0922@gmail.com
-- ⚡ Fun fact: Sleep anytime anywhere 🥱😴💤
+- ⚡ Fun fact: **Sleep anytime anywhere 🥱😴💤**
+
+<h2 align="left">Connect with me:</h2>
+<a href="mailto:mnsuchana0922@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1200px-Gmail_Icon_%282013-2020%29.svg.png" alt="mnsuchana0922@gmail.com" height="30" width="40" /></a>
   
  #
  
@@ -44,6 +47,7 @@ I’m Meherun Nessa Suchana, a student of [American International University - B
       <img width=350 align="center" src="https://streak-stats.demolab.com?user=MeherunNessaSuchana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" />
     </a>
   </div>
+  
   <br>
   <br>
   <br>
@@ -54,16 +58,8 @@ I’m Meherun Nessa Suchana, a student of [American International University - B
 
 
 <!--
-**MeherunNessaSuchana/MeherunNessaSuchana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
