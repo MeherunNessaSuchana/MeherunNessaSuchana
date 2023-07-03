@@ -19,9 +19,11 @@ I’m Meherun Nessa Suchana, a student of [American International University - B
 
 <h2 align="left">Connect with me:</h2>
 <a href="mailto:mnsuchana0922@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1200px-Gmail_Icon_%282013-2020%29.svg.png" alt="mnsuchana0922@gmail.com" height="30" width="40" /></a>
-  
+
+
+<img align="right" height="100" src="https://komarev.com/ghpvc/?username=MeherunNessaSuchana&label=Profile%20views&color=0e75b6&style=flat" alt="MeherunNessaSuchana" /> 
+
  #
- 
 <h2 align="left">Interest and Skills 🔥</h4>
 <div align="left">
   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" width="37" alt="c logo"/> </a>
