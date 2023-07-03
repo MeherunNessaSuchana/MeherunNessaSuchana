@@ -8,7 +8,7 @@ I’m Meherun Nessa Suchana, a student of [American International University - B
 
 <!-- <div align="right"> <img src="https://media.tenor.com/jHg-q58KgiYAAAAC/scaler-create-impact.gif" height="350" width="500" alt="java logo" /> </div> -->
 
-<img align="right" height="220" src=https://media.tenor.com/jHg-q58KgiYAAAAC/scaler-create-impact.gif  /> 
+<img align="right" height="220" src=https://media.tenor.com/jHg-q58KgiYAAAAC/scaler-create-impact.gif /> 
 
 <h2 align="left"> 💫About Me : </h2>
 
@@ -20,8 +20,7 @@ I’m Meherun Nessa Suchana, a student of [American International University - B
 <h2 align="left">Connect with me:</h2>
 <a href="mailto:mnsuchana0922@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1200px-Gmail_Icon_%282013-2020%29.svg.png" alt="mnsuchana0922@gmail.com" height="30" width="40" /></a>
 
-
-<img align="right" height="100" src="https://komarev.com/ghpvc/?username=MeherunNessaSuchana&label=Profile%20views&color=0e75b6&style=flat" alt="MeherunNessaSuchana" /> 
+<img align="right" height="40" src="https://komarev.com/ghpvc/?username=MeherunNessaSuchana&label=Profile%20views&color=0e75b6&style=flat" alt="MeherunNessaSuchana" /> 
 
  #
 <h2 align="left">Interest and Skills 🔥</h4>
