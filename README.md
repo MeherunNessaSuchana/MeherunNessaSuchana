@@ -29,7 +29,7 @@ I’m Meherun Nessa Suchana, a student of [American International University - B
   <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" width="37" alt="c logo"/> </a>
   <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" width="40" alt="cplusplus logo"/> </a>
   <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" width="50" alt="java logo"/> </a>
-  <a href="https://www.javatpoint.com/java-swing" target="_blank" rel="noreferrer"> <img src="http://www.marksmantech.com/images/technology/javaswing.png" height="55" width="80" alt="java logo"/> </a>
+ <!-- <a href="https://www.javatpoint.com/java-swing" target="_blank" rel="noreferrer"> <img src="http://www.marksmantech.com/images/technology/javaswing.png" height="55" width="80" alt="java logo"/> </a> -->
 
 </div>
 
