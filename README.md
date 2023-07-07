@@ -1,5 +1,9 @@
-
-<h1 align="center">👋 Hi 👋 I’m Meherun Nessa Suchana </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+👋;I'm+Meherun+Nessa+Suchana;&center=true&size=30">
+  </a>
+</h1>
+<!-- <h1 align="center">👋 Hi 👋 I’m Meherun Nessa Suchana </h1> -->
 <h2 align="center"> 👩🏻‍💻 Only Coding 👩🏼‍💻 </h2>
 <div align="center"> <img src="https://media.tenor.com/0GcbKtVSr8sAAAAC/geek-laptop.gif" height="222" width="380" alt="java logo" /> </div> 
 <!--  <div align="center"> <img src="https://media.tenor.com/v3Kzb5rlFdgAAAAi/mochi-cute.gif" height="400" width="400" alt="java logo" /> </div> -->
