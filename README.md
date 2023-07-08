@@ -1,4 +1,4 @@
-![image](https://github.com/MeherunNessaSuchana/MeherunNessaSuchana/assets/134639926/52eafea2-0aec-4d03-8086-2fca7e2bc20a)<h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+👋;I'm+Meherun+Nessa+Suchana . . . ;&center=true&size=30">
   </a>
